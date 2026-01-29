@@ -1,5 +1,13 @@
 ## Hi there 👋
+# Hi, I'm Udit! 👋
+### 🛡️ Azure Security Engineer in Training
 
+- 🔭 Currently working on **Azure Security Pillars (AZ-500)**.
+- ⚡ **Projects:**
+    - **Azure Bastion:** Hardening RDP access.
+    - **PIM:** Managing Just-In-Time admin privileges.
+    - **Networking:** Hub-and-Spoke architecture security.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/udit-prakash-singh-88886229).
 <!--
 **uditprak/uditprak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
