@@ -16,7 +16,7 @@ I bridge the gap between **Cloud Infrastructure** and **Security Operations (SOC
 - **Data Protection:** Managing secrets and encryption via **Azure Key Vault** and Managed Identities.
 
 ### 🛠️ Featured Projects
-- **[Bastion & NSG Hardening](LINK_TO_REPO):** Secured a private network by eliminating RDP/SSH exposure to the internet.
+- **[Bastion & NSG Hardening](https://github.com/uditprak/Secure-Management-Access-via-Azure-Bastion):** Secured a private network by eliminating RDP/SSH exposure to the internet.
 - **[Privileged Access Governance](LINK_TO_REPO):** Implemented PIM to mitigate the risk of permanent "Global Admin" roles.
 - **[Cloud SOC Lab](LINK_TO_REPO):** (Coming Soon) Monitoring Azure resources using Microsoft Sentinel.
 
