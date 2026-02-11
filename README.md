@@ -18,7 +18,7 @@ I bridge the gap between **Cloud Infrastructure** and **Security Operations (SOC
 ### 🛠️ Featured Projects
 - **[Bastion & NSG Hardening](https://github.com/uditprak/Secure-Management-Access-via-Azure-Bastion):** Secured a private network by eliminating RDP/SSH exposure to the internet.
 - **[Privileged Access Governance](https://github.com/uditprak/Azure-Privileged-Identity-Management-Lab):** Implemented PIM to mitigate the risk of permanent "Global Admin" roles.
-- **[Cloud SOC Lab](https://github.com/uditprak/Sentinel-SIEM-SOAR):** Automated Cloud SOC & Honeypot.
+- **[Cloud SOC Lab](https://github.com/uditprak/Sentinel-SIEM-SOAR):** Automated Cloud SOC using Microsoft Sentinel & Logic Apps to detect and block RDP Brute-Force attacks in real-time.
 
 ### 🧰 Skills & Tools
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
