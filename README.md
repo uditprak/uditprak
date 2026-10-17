@@ -1,6 +1,6 @@
 # Udit Singh | SOC Analyst & Azure Security Practitioner
 
-Security operations professional with **24/7 network and security operations experience at IBM** (Tier-1 telecom accounts: Lumen, Verizon) and a **Postgraduate Certificate in Cyber Security (RQF Level 7) from Swansea University, UK**. I build hands-on Azure security labs to practise detection, response and identity hardening, and I'm preparing for **Microsoft SC-200**.
+Security operations professional with **24/7 network and security operations experience at IBM** (Tier-1 telecom accounts: Lumen, Verizon) and a **Postgraduate in Cyber Security (RQF Level 7) from Swansea University, UK**. I build hands-on Azure security labs to practise detection, response and identity hardening, and I'm preparing for **Microsoft SC-200**.
 
 📫 uditprak226@gmail.com · [LinkedIn](https://www.linkedin.com/in/udit-prakash-singh) · Open to relocation (Ireland, UK, Netherlands, Germany, Luxembourg, Sweden) and roles in India
 
