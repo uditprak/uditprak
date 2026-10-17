@@ -1,46 +1,35 @@
-# 🛡️ Udit | Azure Security Engineer & CyberSecurity Analyst
+# Udit Singh | SOC Analyst & Azure Security Practitioner
 
-I bridge the gap between **Cloud Infrastructure** and **Security Operations (SOC)**. I am passionate about defending cloud environments through proactive hardening, identity governance, and threat detection.
+Security operations professional with **24/7 network and security operations experience at IBM** (Tier-1 telecom accounts: Lumen, Verizon) and a **Postgraduate Certificate in Cyber Security (RQF Level 7) from Swansea University, UK**. I build hands-on Azure security labs to practise detection, response and identity hardening, and I'm preparing for **Microsoft SC-200**.
 
----
-
-### 🕵️ Security Operations (SOC) & Cyber Focus
-- **Threat Detection:** Analyzing logs and identifying attack patterns (Brute Force, Lateral Movement).
-- **Incident Response:** Understanding the lifecycle of an incident and containment strategies.
-- **Vulnerability Management:** Identifying misconfigurations and hardening system baselines.
-- **Identity Security:** Specializing in MFA, Conditional Access, and Zero Trust.
-
-### ☁️ Azure Security Expertise (AZ-500)
-- **Infrastructure Security:** Architecting secure **Hub-and-Spoke** networks with **Azure Bastion**.
-- **Governance:** Enforcing **Privileged Identity Management (PIM)** for Just-In-Time access.
-- **Data Protection:** Managing secrets and encryption via **Azure Key Vault** and Managed Identities.
-
-### 🛠️ Featured Projects
-- **[Bastion & NSG Hardening](https://github.com/uditprak/Secure-Management-Access-via-Azure-Bastion):** Secured a private network by eliminating RDP/SSH exposure to the internet.
-- **[Privileged Access Governance](https://github.com/uditprak/Azure-Privileged-Identity-Management-Lab):** Implemented PIM to mitigate the risk of permanent "Global Admin" roles.
-- **[Cloud SOC Lab](https://github.com/uditprak/Sentinel-SIEM-SOAR):** Automated Cloud SOC using Microsoft Sentinel & Logic Apps to detect and block RDP Brute-Force attacks in real-time.
-
-### 🧰 Skills & Tools
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![CyberSecurity](https://img.shields.io/badge/CyberSecurity-Red?style=for-the-badge&logo=checkpoint&logoColor=white)
- 
+📫 uditprak226@gmail.com · [LinkedIn](https://www.linkedin.com/in/udit-prakash-singh) · Open to relocation (Ireland, UK, Netherlands, Germany, Luxembourg, Sweden) and roles in India
 
 ---
 
-### 📫 Let's Connect!
-- **LinkedIn:** (https://www.linkedin.com/in/udit-prakash-singh-88886229) 
-- **Current Goal:** Mastering Pillar 3 (Key Vault) & moving towards **Microsoft Sentinel (SIEM)**.
-<!--
-**uditprak/uditprak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🕵️ Security Operations Focus
+- **Threat detection:** analysing Windows security logs (Event IDs 4625 / 4624) in Microsoft Sentinel with KQL to spot brute-force patterns.
+- **Incident response:** triage, escalation and containment within SLA, from 24/7 rotational shifts at IBM.
+- **Automation:** Azure Logic Apps playbooks triggered by Sentinel incidents.
+- **Identity security:** MFA and just-in-time admin access with Entra ID Privileged Identity Management.
 
-Here are some ideas to get you started:
+### ☁️ Azure Security Labs (AZ-500 study)
+- **Secure admin access:** Azure Bastion deployment that removes public RDP/SSH exposure; VNet designed to be Hub-and-Spoke ready.
+- **Privileged access governance:** PIM eligible assignments with MFA, justification and time-bound activation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Projects
+| Project | What it shows | Status |
+| :--- | :--- | :--- |
+| [Sentinel SIEM & SOAR Lab](https://github.com/uditprak/Sentinel-SIEM-SOAR) | Azure honeypot, ~490 RDP brute-force attempts from 7 countries, KQL detection rule, Logic Apps playbook | Complete |
+| [Azure PIM Lab](https://github.com/uditprak/Azure-Privileged-Identity-Management-Lab) | Just-in-time Security Administrator role with MFA + justification | Complete |
+| [Azure Bastion Lab](https://github.com/uditprak/Secure-Management-Access-via-Azure-Bastion) | VM with no public IP, RDP over HTTPS via Bastion | Complete |
+| [AI-Assisted Alert Triage](https://github.com/uditprak/AI-Assisted-Sentinel-Triage) | Logic Apps + LLM workflow that summarises and prioritises Sentinel incidents | In progress |
+
+### 🧰 Tools
+Microsoft Sentinel · KQL · Microsoft Defender XDR / Defender for Endpoint · Entra ID · Azure Logic Apps · Log Analytics · Cisco Catalyst 8000 · Firewalls & VPNs · Wireshark · ServiceNow · BMC Remedy · Splunk (familiar)
+
+### 🎓 Certifications & Training
+- Microsoft SC-200: in preparation
+- Fortinet NSE 1 · TryHackMe SOC Level 1 & 2 · CCNA training · Google Crash Course on Python
+
+### 🎯 Current Goal
+Passing **SC-200** and finishing the AI-assisted triage project.
