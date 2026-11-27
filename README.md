@@ -23,6 +23,7 @@ Security operations professional with **24/7 network and security operations exp
 | [Azure PIM Lab](https://github.com/uditprak/Azure-Privileged-Identity-Management-Lab) | Just-in-time Security Administrator role with MFA + justification | Complete |
 | [Azure Bastion Lab](https://github.com/uditprak/Secure-Management-Access-via-Azure-Bastion) | VM with no public IP, RDP over HTTPS via Bastion | Complete |
 | [AI-Assisted Alert Triage](https://github.com/uditprak/AI-Assisted-Sentinel-Triage) | Logic Apps + LLM workflow that summarises and prioritises Sentinel incidents | In progress |
+| [AI Triage Risk Assessment](https://github.com/uditprak/ai-triage-risk-assessment) | GRC risk assessment of the AI triage workflow: risk register, prompt-injection and accuracy tests, mapped to NIST AI RMF and OWASP Top 10 for LLM 2026 | In progress |
 
 ### 🧰 Tools
 Microsoft Sentinel · KQL · Microsoft Defender XDR / Defender for Endpoint · Entra ID · Azure Logic Apps · Log Analytics · Cisco Catalyst 8000 · Firewalls & VPNs · Wireshark · ServiceNow · BMC Remedy · Splunk (familiar)
@@ -32,4 +33,4 @@ Microsoft Sentinel · KQL · Microsoft Defender XDR / Defender for Endpoint · E
 - Fortinet NSE 1 · TryHackMe SOC Level 1 & 2 · CCNA training · Google Crash Course on Python
 
 ### 🎯 Current Goal
-Passing **SC-200** and finishing the AI-assisted triage project.
+Passing **SC-200**, finishing the AI-assisted triage project and its risk assessment.
